@@ -1,0 +1,24 @@
+<div class="row">
+  {{#each author}}
+    <div class="col-lg-4 col-md-2">
+      <div class="card mb-3">
+        <div class="card" style="width: 100%;">
+          <img src="images.png" alt="Avatar" width="150" />
+          <div class="card-body">
+            <h5 class="card-title">{{author_first_name}}
+              {{author_last_name}}
+              ({{author_nick_name}})</h5>
+            <p class="card-text">Lorem ipsum, dolor sit amet consectetur
+              adipisicing elit. Iste eligendi rerum illum, nemo aliquam animi,
+              consequatur quibusdam reiciendis quisquam nostrum.
+            </p>
+            <p><b>Email</b> : {{author_email}}</p>
+            <p><b>Phone number</b>: {{author_phone}}</p>
+            <p><b>Position:</b> {{author_position}}</p>
+            <a href="#" class="btn btn-primary"> Send message </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>

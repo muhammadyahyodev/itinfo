@@ -1,0 +1,16 @@
+{
+  "port": 3030,
+  "dbUri": "mongodb://localhost:27017/itinfo",
+  "secret": "securityKey$$netpro_0",
+  "expire": "8 days",
+  "access_key": "BuAccessKeyUchunKalit",
+  "refresh_key": "BuRefreshKeyUchunKalit",
+  "access_time": "1d",
+  "refresh_time": "30d",
+  "refresh_ms": 2592000000,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "yaxyomuhammad2002@gmail.com",
+  "smtp_password": "ikmusvmrvcneqbsl",
+  "api_url": "http://localhost:3000"
+}

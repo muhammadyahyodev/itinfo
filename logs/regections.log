@@ -1,0 +1,1343 @@
+2022-11-04T05:54:59.347Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:54:59.348Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:55:57.998Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:55:57.999Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:12.496Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:12.497Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:17.854Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:17.854Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:38.608Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:38.609Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:40.948Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:40.949Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:42.534Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:42.535Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:45.893Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:56:45.894Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:57:14.108Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:57:14.109Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:59:45.982Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T05:59:52.707Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:03.159Z  error: uncaughtException: hbs is not defined
+ReferenceError: hbs is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:09.354Z  error: uncaughtException: hbs is not defined
+ReferenceError: hbs is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:22.082Z  error: uncaughtException: hbs is not defined
+ReferenceError: hbs is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:33.007Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:44.667Z  error: uncaughtException: hbs is not defined
+ReferenceError: hbs is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:51.595Z  error: uncaughtException: hbs is not defined
+ReferenceError: hbs is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:19)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:00:54.827Z  error: uncaughtException: callback function required
+Error: callback function required
+    at Function.engine (/home/yakhyo/Desktop/projects/itinfo/node_modules/express/lib/application.js:302:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:02:28.035Z  error: uncaughtException: excreate is not defined
+ReferenceError: excreate is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:48:13)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:02:29.489Z  error: uncaughtException: excreate is not defined
+ReferenceError: excreate is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:48:13)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:02:30.974Z  error: uncaughtException: exHBcreate is not defined
+ReferenceError: exHBcreate is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:48:13)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-04T06:02:32.049Z  error: uncaughtException: exHB is not defined
+ReferenceError: exHB is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:48:13)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:21:59.152Z  error: uncaughtException: app.static is not a function
+TypeError: app.static is not a function
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:21:59.153Z  error: uncaughtException: app.static is not a function
+TypeError: app.static is not a function
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:22:02.578Z  error: uncaughtException: app.static is not a function
+TypeError: app.static is not a function
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:22:02.579Z  error: uncaughtException: app.static is not a function
+TypeError: app.static is not a function
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:22:41.285Z  error: uncaughtException: static is not defined
+ReferenceError: static is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-05T11:22:41.286Z  error: uncaughtException: static is not defined
+ReferenceError: static is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/itinfo/app.js:58:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-06T10:20:08.275Z  error: unhandledRejection: topic is not defined
+ReferenceError: topic is not defined
+    at /home/yakhyo/Desktop/projects/itinfo/routes/index.routes.js:62:5
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-06T10:20:08.276Z  error: unhandledRejection: topic is not defined
+ReferenceError: topic is not defined
+    at /home/yakhyo/Desktop/projects/itinfo/routes/index.routes.js:62:5
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-08T12:13:57.825Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:67:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:13:57.825Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:67:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:16.777Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:67:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:16.778Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:67:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:43.697Z  error: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at new NodeError (node:internal/errors:387:5)
+    at Module.require (node:internal/modules/cjs/loader:1023:11)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:43.698Z  error: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at new NodeError (node:internal/errors:387:5)
+    at Module.require (node:internal/modules/cjs/loader:1023:11)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:45.364Z  error: uncaughtException: Cannot find module '../'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+Error: Cannot find module '../'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-11-08T12:14:45.365Z  error: uncaughtException: Cannot find module '../'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+Error: Cannot find module '../'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-11-08T12:14:47.465Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:47.466Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:53.809Z  error: uncaughtException: Cannot find module './routes/'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+Error: Cannot find module './routes/'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-11-08T12:14:53.810Z  error: uncaughtException: Cannot find module './routes/'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+Error: Cannot find module './routes/'
+Require stack:
+- /home/yakhyo/Desktop/projects/ITInfo/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-11-08T12:14:56.499Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:14:56.499Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:15:05.887Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:15:05.888Z  error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:68:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-08T12:15:24.936Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:24.937Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:30.865Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:30.867Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:32.705Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:32.706Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:36.531Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:36.532Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:40.535Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:40.537Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:41.834Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:41.835Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:44.056Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:44.058Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:49.182Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:15:49.183Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:02.066Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:02.067Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:07.080Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:07.081Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:11.360Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:11.361Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:35.066Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:35.067Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:52.970Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:16:52.972Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:17:25.418Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:17:25.419Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:17:52.022Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:17:52.023Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:17:59.420Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:6
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:17:59.421Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:6
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:01.634Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:01.634Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:03.332Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:03.333Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7
+router.get("/", async (req, res) => {
+^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:08.211Z  error: uncaughtException: Missing initializer in destructuring declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5
+const {} r 
+      ^^
+
+SyntaxError: Missing initializer in destructuring declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:08.212Z  error: uncaughtException: Missing initializer in destructuring declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5
+const {} r 
+      ^^
+
+SyntaxError: Missing initializer in destructuring declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:18:13.789Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:13.790Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:17.137Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:17.138Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:18.462Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:18.464Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:22.203Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:22.203Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:24.111Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:24.112Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:34.724Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:18:34.725Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:19:16.757Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5
+const router
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:19:16.758Z  error: uncaughtException: Missing initializer in const declaration
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5
+const router
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:19:18.937Z  error: uncaughtException: Unexpected token 'const'
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:6
+const { createViewPath } = require("../helpers/create_view_path");
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:19:18.938Z  error: uncaughtException: Unexpected token 'const'
+/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:6
+const { createViewPath } = require("../helpers/create_view_path");
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
+    at Module._compile (node:internal/modules/cjs/loader:1090:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+2022-11-08T12:19:22.738Z  error: uncaughtException: Router is not defined
+ReferenceError: Router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:19:22.739Z  error: uncaughtException: Router is not defined
+ReferenceError: Router is not defined
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:19:26.796Z  error: uncaughtException: Cannot access 'Router' before initialization
+ReferenceError: Cannot access 'Router' before initialization
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:19:26.797Z  error: uncaughtException: Cannot access 'Router' before initialization
+ReferenceError: Cannot access 'Router' before initialization
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+2022-11-08T12:19:31.166Z  error: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:513:14)
+    at Function.proto.<computed> [as get] (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+2022-11-08T12:19:31.167Z  error: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:513:14)
+    at Function.proto.<computed> [as get] (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+2022-11-08T12:19:32.523Z  error: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:513:14)
+    at Function.proto.<computed> [as get] (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
+2022-11-08T12:19:32.524Z  error: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:513:14)
+    at Function.proto.<computed> [as get] (/home/yakhyo/Desktop/projects/ITInfo/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/routes/front.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/yakhyo/Desktop/projects/ITInfo/app.js:15:21)
